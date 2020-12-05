@@ -1,0 +1,652 @@
+2020-12-05 21:43:23.673602 (MainThread): Running with dbt=0.18.1
+2020-12-05 21:43:23.770673 (MainThread): Loading KWallet
+2020-12-05 21:43:23.771594 (MainThread): Loading SecretService
+2020-12-05 21:43:23.780942 (MainThread): Loading Windows
+2020-12-05 21:43:23.783022 (MainThread): Loading chainer
+2020-12-05 21:43:23.783447 (MainThread): Loading macOS
+2020-12-05 21:43:24.177106 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.177284 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.177452 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.177776 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.177997 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.178189 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.178352 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.178486 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.178659 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.178814 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.178940 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.179047 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.179147 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.179283 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.179384 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.179490 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.179592 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.179691 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.179784 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.179895 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.180031 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.180132 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.180591 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.180695 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.180778 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.180885 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.180970 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.181079 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.181157 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.181259 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.181336 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.181432 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.181503 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.181602 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.181682 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.181820 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.181894 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.182005 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.182077 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.182177 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.182254 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.182354 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.182432 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.182537 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.182618 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.182722 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.182794 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.182897 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.182968 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.183066 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.183143 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.183246 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.183317 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.183415 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.183491 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.183589 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.183661 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.183753 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.183834 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.183933 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.184005 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.184113 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.184191 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.184286 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.184396 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.184498 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.184581 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.185006 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google/logging: missing __init__
+2020-12-05 21:43:24.185106 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.185188 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.185490 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.185578 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.185925 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google/cloud: missing __init__
+2020-12-05 21:43:24.186031 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.186109 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.186435 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.186521 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.186828 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.186915 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.187244 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.187334 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.187439 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.187521 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.187637 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.187718 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.187822 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.187910 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.188008 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.188088 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.188198 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.188271 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.188371 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.188498 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.188640 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.188713 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.189007 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.189091 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.189201 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.189317 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.189425 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.189510 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.189616 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.189691 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.189805 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.189909 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.190051 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.190138 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.190255 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.190333 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.190449 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.190531 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.190637 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.190719 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.190820 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.190927 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.191039 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.191122 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.191234 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.191311 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.191413 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.191506 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.191624 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.191708 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.191820 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.191902 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.192024 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 21:43:24.192102 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 21:43:24.277218 (MainThread): running dbt with arguments Namespace(cls=<class 'dbt.task.run.RunTask'>, debug=False, defer=None, exclude=None, fail_fast=False, full_refresh=False, log_cache_events=False, log_format='default', models=None, partial_parse=None, profile=None, profiles_dir='/home/sandman/.dbt', project_dir=None, record_timing_info=None, rpc_method='run', selector_name=None, single_threaded=False, state=None, strict=False, target=None, test_new_parser=False, threads=None, use_cache=True, use_colors=None, vars='{}', version_check=True, warn_error=False, which='run', write_json=True)
+2020-12-05 21:43:24.291750 (MainThread): Tracking: tracking
+2020-12-05 21:43:24.292318 (MainThread): Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7dd67faeb8>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7dd97b8400>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7dcfa4f860>]}
+2020-12-05 21:43:24.320345 (MainThread): Partial parsing not enabled
+2020-12-05 21:43:24.322792 (MainThread): Parsing macros/adapters.sql
+2020-12-05 21:43:24.352902 (MainThread): Parsing macros/catalog.sql
+2020-12-05 21:43:24.355216 (MainThread): Parsing macros/materializations/incremental.sql
+2020-12-05 21:43:24.363799 (MainThread): Parsing macros/materializations/merge.sql
+2020-12-05 21:43:24.365777 (MainThread): Parsing macros/materializations/table.sql
+2020-12-05 21:43:24.369334 (MainThread): Parsing macros/materializations/view.sql
+2020-12-05 21:43:24.378324 (MainThread): Parsing macros/core.sql
+2020-12-05 21:43:24.381620 (MainThread): Parsing macros/adapters/common.sql
+2020-12-05 21:43:24.416567 (MainThread): Parsing macros/etc/datetime.sql
+2020-12-05 21:43:24.423748 (MainThread): Parsing macros/etc/get_custom_alias.sql
+2020-12-05 21:43:24.424672 (MainThread): Parsing macros/etc/get_custom_database.sql
+2020-12-05 21:43:24.426195 (MainThread): Parsing macros/etc/get_custom_schema.sql
+2020-12-05 21:43:24.427950 (MainThread): Parsing macros/etc/is_incremental.sql
+2020-12-05 21:43:24.429987 (MainThread): Parsing macros/etc/query.sql
+2020-12-05 21:43:24.431087 (MainThread): Parsing macros/materializations/helpers.sql
+2020-12-05 21:43:24.439990 (MainThread): Parsing macros/materializations/common/merge.sql
+2020-12-05 21:43:24.452119 (MainThread): Parsing macros/materializations/incremental/helpers.sql
+2020-12-05 21:43:24.453923 (MainThread): Parsing macros/materializations/incremental/incremental.sql
+2020-12-05 21:43:24.459366 (MainThread): Parsing macros/materializations/seed/seed.sql
+2020-12-05 21:43:24.477725 (MainThread): Parsing macros/materializations/snapshot/snapshot.sql
+2020-12-05 21:43:24.500996 (MainThread): Parsing macros/materializations/snapshot/snapshot_merge.sql
+2020-12-05 21:43:24.502592 (MainThread): Parsing macros/materializations/snapshot/strategies.sql
+2020-12-05 21:43:24.516222 (MainThread): Parsing macros/materializations/table/table.sql
+2020-12-05 21:43:24.521878 (MainThread): Parsing macros/materializations/view/create_or_replace_view.sql
+2020-12-05 21:43:24.526169 (MainThread): Parsing macros/materializations/view/view.sql
+2020-12-05 21:43:24.532265 (MainThread): Parsing macros/schema_tests/accepted_values.sql
+2020-12-05 21:43:24.534647 (MainThread): Parsing macros/schema_tests/not_null.sql
+2020-12-05 21:43:24.536030 (MainThread): Parsing macros/schema_tests/relationships.sql
+2020-12-05 21:43:24.537675 (MainThread): Parsing macros/schema_tests/unique.sql
+2020-12-05 21:43:24.546206 (MainThread): Partial parsing not enabled
+2020-12-05 21:43:24.583487 (MainThread): Acquiring new snowflake connection "model.jaffle_shop.my_first_dbt_model".
+2020-12-05 21:43:24.605824 (MainThread): Acquiring new snowflake connection "model.jaffle_shop.my_second_dbt_model".
+2020-12-05 21:43:24.894711 (MainThread): Found 2 models, 4 tests, 0 snapshots, 0 analyses, 143 macros, 0 operations, 0 seed files, 0 sources
+2020-12-05 21:43:24.895555 (MainThread): 
+2020-12-05 21:43:24.895855 (MainThread): Acquiring new snowflake connection "master".
+2020-12-05 21:43:24.898855 (ThreadPoolExecutor-0_0): Acquiring new snowflake connection "list_analytics".
+2020-12-05 21:43:24.912027 (ThreadPoolExecutor-0_0): Using snowflake connection "list_analytics".
+2020-12-05 21:43:24.912230 (ThreadPoolExecutor-0_0): On list_analytics: /* {"app": "dbt", "dbt_version": "0.18.1", "profile_name": "jaffle_shop", "target_name": "dev", "connection_name": "list_analytics"} */
+
+    show terse schemas in database analytics
+    limit 10000
+2020-12-05 21:43:24.912309 (ThreadPoolExecutor-0_0): Opening a new connection, currently in state init
+2020-12-05 21:44:07.544534 (ThreadPoolExecutor-0_0): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7dce1813c8>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False, 'exceptionMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7dce1813c8>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'exceptionStackTrace': 'Traceback (most recent call last):\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connection.py", line 160, in _new_conn\n    (self._dns_host, self.port), self.timeout, **extra_kw\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/util/connection.py", line 84, in create_connection\n    raise err\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/util/connection.py", line 74, in create_connection\n    sock.connect(sa)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connectionpool.py", line 677, in urlopen\n    chunked=chunked,\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connectionpool.py", line 392, in _make_request\n    conn.request(method, url, **httplib_request_kw)\n  File "/usr/lib/python3.6/http/client.py", line 1281, in request\n    self._send_request(method, url, body, headers, encode_chunked)\n  File "/usr/lib/python3.6/http/client.py", line 1327, in _send_request\n    self.endheaders(body, encode_chunked=encode_chunked)\n  File "/usr/lib/python3.6/http/client.py", line 1276, in endheaders\n    self._send_output(message_body, encode_chunked=encode_chunked)\n  File "/usr/lib/python3.6/http/client.py", line 1042, in _send_output\n    self.send(msg)\n  File "/usr/lib/python3.6/http/client.py", line 980, in send\n    self.connect()\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connection.py", line 187, in connect\n    conn = self._new_conn()\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connection.py", line 172, in _new_conn\n    self, "Failed to establish a new connection: %s" % e\nurllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f7dce1813c8>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/requests/adapters.py", line 449, in send\n    timeout=timeout\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connectionpool.py", line 727, in urlopen\n    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/util/retry.py", line 446, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: HTTPConnectionPool(host=\'o.ss2.us\', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(\'<urllib3.connection.HTTPConnection object at 0x7f7dce1813c8>: Failed to establish a new connection: [Errno 111] Connection refused\',))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/snowflake/connector/ocsp_snowflake.py", line 1340, in _fetch_ocsp_response\n    data=payload,\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/requests/sessions.py", line 530, in request\n    resp = self.send(prep, **send_kwargs)\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/requests/sessions.py", line 643, in send\n    r = adapter.send(request, **kwargs)\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/requests/adapters.py", line 516, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host=\'o.ss2.us\', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(\'<urllib3.connection.HTTPConnection object at 0x7f7dce1813c8>: Failed to establish a new connection: [Errno 111] Connection refused\',))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/snowflake/connector/ocsp_snowflake.py", line 1070, in validate_by_direct_connection\n    hostname, do_retry)\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/snowflake/connector/ocsp_snowflake.py", line 1365, in _fetch_ocsp_response\n    errno=ER_OCSP_FAILED_TO_CONNECT_HOST)\nsnowflake.connector.errors.RevocationCheckError: 254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host=\'o.ss2.us\', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(\'<urllib3.connection.HTTPConnection object at 0x7f7dce1813c8>: Failed to establish a new connection: [Errno 111] Connection refused\',))\n'}
+2020-12-05 21:44:07.908889 (ThreadPoolExecutor-0_0): SQL status: SUCCESS 347 in 43.00 seconds
+2020-12-05 21:44:07.926700 (ThreadPoolExecutor-0_0): On list_analytics: Close
+2020-12-05 21:44:08.033399 (ThreadPoolExecutor-0_0): Acquiring new snowflake connection "create_analytics_dev_lgaudet".
+2020-12-05 21:44:08.034859 (ThreadPoolExecutor-0_0): Acquiring new snowflake connection "create_analytics_dev_lgaudet".
+2020-12-05 21:44:08.036636 (ThreadPoolExecutor-0_0): Creating schema "analytics.dev_lgaudet"
+2020-12-05 21:44:08.057057 (ThreadPoolExecutor-0_0): Using snowflake connection "create_analytics_dev_lgaudet".
+2020-12-05 21:44:08.057215 (ThreadPoolExecutor-0_0): On create_analytics_dev_lgaudet: BEGIN
+2020-12-05 21:44:08.057297 (ThreadPoolExecutor-0_0): Opening a new connection, currently in state closed
+2020-12-05 21:44:50.263049 (ThreadPoolExecutor-0_0): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7dcdbfab38>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 21:44:50.580180 (ThreadPoolExecutor-0_0): SQL status: SUCCESS 1 in 42.52 seconds
+2020-12-05 21:44:50.580506 (ThreadPoolExecutor-0_0): Using snowflake connection "create_analytics_dev_lgaudet".
+2020-12-05 21:44:50.580640 (ThreadPoolExecutor-0_0): On create_analytics_dev_lgaudet: /* {"app": "dbt", "dbt_version": "0.18.1", "profile_name": "jaffle_shop", "target_name": "dev", "connection_name": "create_analytics_dev_lgaudet"} */
+create schema if not exists analytics.dev_lgaudet
+2020-12-05 21:44:50.797122 (ThreadPoolExecutor-0_0): SQL status: SUCCESS 1 in 0.22 seconds
+2020-12-05 21:44:50.799049 (ThreadPoolExecutor-0_0): On create_analytics_dev_lgaudet: COMMIT
+2020-12-05 21:44:50.799307 (ThreadPoolExecutor-0_0): Using snowflake connection "create_analytics_dev_lgaudet".
+2020-12-05 21:44:50.799466 (ThreadPoolExecutor-0_0): On create_analytics_dev_lgaudet: COMMIT
+2020-12-05 21:44:50.865390 (ThreadPoolExecutor-0_0): SQL status: SUCCESS 1 in 0.07 seconds
+2020-12-05 21:44:50.865607 (ThreadPoolExecutor-0_0): On create_analytics_dev_lgaudet: Close
+2020-12-05 21:44:50.969222 (ThreadPoolExecutor-1_0): Acquiring new snowflake connection "list_analytics_dev_lgaudet".
+2020-12-05 21:44:50.975263 (ThreadPoolExecutor-1_0): Using snowflake connection "list_analytics_dev_lgaudet".
+2020-12-05 21:44:50.975376 (ThreadPoolExecutor-1_0): On list_analytics_dev_lgaudet: /* {"app": "dbt", "dbt_version": "0.18.1", "profile_name": "jaffle_shop", "target_name": "dev", "connection_name": "list_analytics_dev_lgaudet"} */
+
+    show terse objects in analytics.dev_lgaudet
+2020-12-05 21:44:50.975527 (ThreadPoolExecutor-1_0): Opening a new connection, currently in state init
+2020-12-05 21:45:33.514949 (ThreadPoolExecutor-1_0): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7dcd38bb70>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 21:45:33.805638 (ThreadPoolExecutor-1_0): SQL status: SUCCESS 0 in 42.83 seconds
+2020-12-05 21:45:33.806135 (ThreadPoolExecutor-1_0): On list_analytics_dev_lgaudet: Close
+2020-12-05 21:45:33.894942 (MainThread): Using snowflake connection "master".
+2020-12-05 21:45:33.895581 (MainThread): On master: BEGIN
+2020-12-05 21:45:33.896038 (MainThread): Opening a new connection, currently in state init
+2020-12-05 21:46:16.143961 (MainThread): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7dcdc34b00>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 21:46:16.505691 (MainThread): SQL status: SUCCESS 1 in 42.61 seconds
+2020-12-05 21:46:16.506075 (MainThread): On master: COMMIT
+2020-12-05 21:46:16.506380 (MainThread): Using snowflake connection "master".
+2020-12-05 21:46:16.506590 (MainThread): On master: COMMIT
+2020-12-05 21:46:16.654882 (MainThread): SQL status: SUCCESS 1 in 0.15 seconds
+2020-12-05 21:46:16.655112 (MainThread): On master: Close
+2020-12-05 21:46:16.746791 (MainThread): 13:46:16 | Concurrency: 4 threads (target='dev')
+2020-12-05 21:46:16.747055 (MainThread): 13:46:16 | 
+2020-12-05 21:46:16.749407 (Thread-1): Began running node model.jaffle_shop.my_first_dbt_model
+2020-12-05 21:46:16.750660 (Thread-1): 13:46:16 | 1 of 2 START table model dev_lgaudet.my_first_dbt_model.............. [RUN]
+2020-12-05 21:46:16.751113 (Thread-1): Acquiring new snowflake connection "model.jaffle_shop.my_first_dbt_model".
+2020-12-05 21:46:16.751291 (Thread-1): Compiling model.jaffle_shop.my_first_dbt_model
+2020-12-05 21:46:16.768145 (Thread-1): Writing injected SQL for node "model.jaffle_shop.my_first_dbt_model"
+2020-12-05 21:46:16.770125 (Thread-1): finished collecting timing info
+2020-12-05 21:46:16.801477 (Thread-1): Writing runtime SQL for node "model.jaffle_shop.my_first_dbt_model"
+2020-12-05 21:46:16.803803 (Thread-1): Using snowflake connection "model.jaffle_shop.my_first_dbt_model".
+2020-12-05 21:46:16.803950 (Thread-1): On model.jaffle_shop.my_first_dbt_model: BEGIN
+2020-12-05 21:46:16.804050 (Thread-1): Opening a new connection, currently in state closed
+2020-12-05 21:46:59.166557 (Thread-1): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7dcf7e2128>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 21:46:59.501705 (Thread-1): SQL status: SUCCESS 1 in 42.70 seconds
+2020-12-05 21:46:59.501895 (Thread-1): Using snowflake connection "model.jaffle_shop.my_first_dbt_model".
+2020-12-05 21:46:59.501963 (Thread-1): On model.jaffle_shop.my_first_dbt_model: /* {"app": "dbt", "dbt_version": "0.18.1", "profile_name": "jaffle_shop", "target_name": "dev", "node_id": "model.jaffle_shop.my_first_dbt_model"} */
+
+
+      create or replace transient table analytics.dev_lgaudet.my_first_dbt_model  as
+      (/*
+    Welcome to your first dbt model!
+    Did you know that you can also configure models directly within SQL files?
+    This will override configurations stated in dbt_project.yml
+
+    Try changing "table" to "view" below
+*/
+
+
+
+with source_data as (
+
+    select 1 as id
+    union all
+    select null as id
+
+)
+
+select *
+from source_data
+
+/*
+    Uncomment the line below to remove records with null `id` values
+*/
+
+-- where id is not null
+      );
+2020-12-05 21:47:00.933251 (Thread-1): SQL status: SUCCESS 1 in 1.43 seconds
+2020-12-05 21:47:00.934191 (Thread-1): On model.jaffle_shop.my_first_dbt_model: COMMIT
+2020-12-05 21:47:00.934317 (Thread-1): Using snowflake connection "model.jaffle_shop.my_first_dbt_model".
+2020-12-05 21:47:00.934419 (Thread-1): On model.jaffle_shop.my_first_dbt_model: COMMIT
+2020-12-05 21:47:00.991388 (Thread-1): SQL status: SUCCESS 1 in 0.06 seconds
+2020-12-05 21:47:01.001433 (Thread-1): finished collecting timing info
+2020-12-05 21:47:01.001717 (Thread-1): On model.jaffle_shop.my_first_dbt_model: Close
+2020-12-05 21:47:01.085355 (Thread-1): Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'd6aac320-9549-4d4f-87ee-9d07d354695c', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7dce1752b0>]}
+2020-12-05 21:47:01.086454 (Thread-1): 13:47:01 | 1 of 2 OK created table model dev_lgaudet.my_first_dbt_model......... [SUCCESS 1 in 44.33s]
+2020-12-05 21:47:01.086617 (Thread-1): Finished running node model.jaffle_shop.my_first_dbt_model
+2020-12-05 21:47:01.087439 (Thread-2): Began running node model.jaffle_shop.my_second_dbt_model
+2020-12-05 21:47:01.088281 (Thread-2): 13:47:01 | 2 of 2 START view model dev_lgaudet.my_second_dbt_model.............. [RUN]
+2020-12-05 21:47:01.088576 (Thread-2): Acquiring new snowflake connection "model.jaffle_shop.my_second_dbt_model".
+2020-12-05 21:47:01.088669 (Thread-2): Compiling model.jaffle_shop.my_second_dbt_model
+2020-12-05 21:47:01.096779 (Thread-2): Writing injected SQL for node "model.jaffle_shop.my_second_dbt_model"
+2020-12-05 21:47:01.097754 (Thread-2): finished collecting timing info
+2020-12-05 21:47:01.117128 (Thread-2): Writing runtime SQL for node "model.jaffle_shop.my_second_dbt_model"
+2020-12-05 21:47:01.118351 (Thread-2): Using snowflake connection "model.jaffle_shop.my_second_dbt_model".
+2020-12-05 21:47:01.118456 (Thread-2): On model.jaffle_shop.my_second_dbt_model: BEGIN
+2020-12-05 21:47:01.118535 (Thread-2): Opening a new connection, currently in state closed
+2020-12-05 21:47:43.346225 (Thread-2): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7dcc2f3f60>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 21:47:43.662810 (Thread-2): SQL status: SUCCESS 1 in 42.54 seconds
+2020-12-05 21:47:43.662986 (Thread-2): Using snowflake connection "model.jaffle_shop.my_second_dbt_model".
+2020-12-05 21:47:43.663055 (Thread-2): On model.jaffle_shop.my_second_dbt_model: /* {"app": "dbt", "dbt_version": "0.18.1", "profile_name": "jaffle_shop", "target_name": "dev", "node_id": "model.jaffle_shop.my_second_dbt_model"} */
+
+  create or replace  view analytics.dev_lgaudet.my_second_dbt_model  as (
+    -- Use the `ref` function to select from other models
+
+select *
+from analytics.dev_lgaudet.my_first_dbt_model
+where id = 1
+  );
+2020-12-05 21:47:43.931329 (Thread-2): SQL status: SUCCESS 1 in 0.27 seconds
+2020-12-05 21:47:43.934039 (Thread-2): On model.jaffle_shop.my_second_dbt_model: COMMIT
+2020-12-05 21:47:43.934495 (Thread-2): Using snowflake connection "model.jaffle_shop.my_second_dbt_model".
+2020-12-05 21:47:43.934778 (Thread-2): On model.jaffle_shop.my_second_dbt_model: COMMIT
+2020-12-05 21:47:43.993417 (Thread-2): SQL status: SUCCESS 1 in 0.06 seconds
+2020-12-05 21:47:43.996252 (Thread-2): finished collecting timing info
+2020-12-05 21:47:43.996477 (Thread-2): On model.jaffle_shop.my_second_dbt_model: Close
+2020-12-05 21:47:44.103449 (Thread-2): Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'd6aac320-9549-4d4f-87ee-9d07d354695c', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7dce175828>]}
+2020-12-05 21:47:44.104544 (Thread-2): 13:47:44 | 2 of 2 OK created view model dev_lgaudet.my_second_dbt_model......... [SUCCESS 1 in 43.01s]
+2020-12-05 21:47:44.104718 (Thread-2): Finished running node model.jaffle_shop.my_second_dbt_model
+2020-12-05 21:47:44.177839 (MainThread): Acquiring new snowflake connection "master".
+2020-12-05 21:47:44.178104 (MainThread): Using snowflake connection "master".
+2020-12-05 21:47:44.178175 (MainThread): On master: BEGIN
+2020-12-05 21:47:44.178244 (MainThread): Opening a new connection, currently in state closed
+2020-12-05 21:48:26.853225 (MainThread): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7dcc2d6278>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 21:48:27.171500 (MainThread): SQL status: SUCCESS 1 in 42.99 seconds
+2020-12-05 21:48:27.171768 (MainThread): On master: COMMIT
+2020-12-05 21:48:27.171952 (MainThread): Using snowflake connection "master".
+2020-12-05 21:48:27.172083 (MainThread): On master: COMMIT
+2020-12-05 21:48:27.278102 (MainThread): SQL status: SUCCESS 1 in 0.11 seconds
+2020-12-05 21:48:27.278485 (MainThread): On master: Close
+2020-12-05 21:48:27.383722 (MainThread): 13:48:27 | 
+2020-12-05 21:48:27.383975 (MainThread): 13:48:27 | Finished running 1 table model, 1 view model in 302.49s.
+2020-12-05 21:48:27.384119 (MainThread): Connection 'master' was properly closed.
+2020-12-05 21:48:27.384214 (MainThread): Connection 'model.jaffle_shop.my_second_dbt_model' was properly closed.
+2020-12-05 21:48:27.384318 (MainThread): Connection 'model.jaffle_shop.my_first_dbt_model' was properly closed.
+2020-12-05 21:48:27.396776 (MainThread): 
+2020-12-05 21:48:27.397179 (MainThread): Completed successfully
+2020-12-05 21:48:27.397482 (MainThread): 
+Done. PASS=2 WARN=0 ERROR=0 SKIP=0 TOTAL=2
+2020-12-05 21:48:27.397966 (MainThread): Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7dcd3a7e80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7dcd3a7ef0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7dcd3a7390>]}
+2020-12-05 21:48:27.398358 (MainThread): Flushing usage events
+2020-12-05 22:03:42.369816 (MainThread): Running with dbt=0.18.1
+2020-12-05 22:03:42.532365 (MainThread): Loading KWallet
+2020-12-05 22:03:42.534002 (MainThread): Loading SecretService
+2020-12-05 22:03:42.555603 (MainThread): Loading Windows
+2020-12-05 22:03:42.558110 (MainThread): Loading chainer
+2020-12-05 22:03:42.559250 (MainThread): Loading macOS
+2020-12-05 22:03:43.612016 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.612133 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.612260 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.612379 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.612490 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.612589 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.612694 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.612796 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.612892 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.612998 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.613101 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.613214 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.613317 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.613437 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.613560 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.613666 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.613765 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.613857 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.613954 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.614063 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.614196 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.614295 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.614858 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.614968 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.615045 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.615153 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.615234 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.615342 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.615415 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.615522 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.615599 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.615695 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.615766 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.615864 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.615944 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.616045 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.616158 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.616266 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.616339 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.616475 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.616551 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.616650 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.616728 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.616832 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.616913 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.617022 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.617093 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.617192 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.617268 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.617366 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.617443 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.617545 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.617616 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.617708 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.617787 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.617884 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.617954 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.618046 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.618127 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.618225 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.618298 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.618405 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.618477 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.618574 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.618685 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.618785 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.618862 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.619464 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google/logging: missing __init__
+2020-12-05 22:03:43.619569 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.619646 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.620442 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.620547 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.621315 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google/cloud: missing __init__
+2020-12-05 22:03:43.621422 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.621597 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.622213 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.622345 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.622939 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.623032 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.623659 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.623759 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.623912 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.624033 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.624181 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.624262 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.624371 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.624448 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.624551 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.624627 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.624730 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.624813 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.624917 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.624990 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.625099 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.625172 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.625456 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.625539 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.625643 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.625722 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.625832 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.625909 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.626014 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.626086 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.626194 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.626282 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.626431 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.626514 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.626638 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.626719 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.626830 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.626909 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.627006 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.627088 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.627185 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.627331 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.627440 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.627511 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.627615 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.627692 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.627787 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.627868 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.627982 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.628055 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.628163 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.628240 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.628345 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/snowflake: missing __init__
+2020-12-05 22:03:43.628426 (MainThread): Not importing directory /home/sandman/dbt-env/lib/python3.6/site-packages/google: missing __init__
+2020-12-05 22:03:43.726219 (MainThread): running dbt with arguments Namespace(cls=<class 'dbt.task.run.RunTask'>, debug=False, defer=None, exclude=None, fail_fast=False, full_refresh=False, log_cache_events=False, log_format='default', models=None, partial_parse=None, profile=None, profiles_dir='/home/sandman/.dbt', project_dir=None, record_timing_info=None, rpc_method='run', selector_name=None, single_threaded=False, state=None, strict=False, target=None, test_new_parser=False, threads=None, use_cache=True, use_colors=None, vars='{}', version_check=True, warn_error=False, which='run', write_json=True)
+2020-12-05 22:03:43.732487 (MainThread): Tracking: tracking
+2020-12-05 22:03:43.733055 (MainThread): Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f036edfae48>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f0371db83c8>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f03680aad68>]}
+2020-12-05 22:03:43.759156 (MainThread): Partial parsing not enabled
+2020-12-05 22:03:43.761797 (MainThread): Parsing macros/adapters.sql
+2020-12-05 22:03:43.792134 (MainThread): Parsing macros/catalog.sql
+2020-12-05 22:03:43.794841 (MainThread): Parsing macros/materializations/incremental.sql
+2020-12-05 22:03:43.804226 (MainThread): Parsing macros/materializations/merge.sql
+2020-12-05 22:03:43.806728 (MainThread): Parsing macros/materializations/table.sql
+2020-12-05 22:03:43.810925 (MainThread): Parsing macros/materializations/view.sql
+2020-12-05 22:03:43.815358 (MainThread): Parsing macros/core.sql
+2020-12-05 22:03:43.819508 (MainThread): Parsing macros/adapters/common.sql
+2020-12-05 22:03:43.863736 (MainThread): Parsing macros/etc/datetime.sql
+2020-12-05 22:03:43.871741 (MainThread): Parsing macros/etc/get_custom_alias.sql
+2020-12-05 22:03:43.873260 (MainThread): Parsing macros/etc/get_custom_database.sql
+2020-12-05 22:03:43.875308 (MainThread): Parsing macros/etc/get_custom_schema.sql
+2020-12-05 22:03:43.877747 (MainThread): Parsing macros/etc/is_incremental.sql
+2020-12-05 22:03:43.879628 (MainThread): Parsing macros/etc/query.sql
+2020-12-05 22:03:43.881119 (MainThread): Parsing macros/materializations/helpers.sql
+2020-12-05 22:03:43.890954 (MainThread): Parsing macros/materializations/common/merge.sql
+2020-12-05 22:03:43.904919 (MainThread): Parsing macros/materializations/incremental/helpers.sql
+2020-12-05 22:03:43.907293 (MainThread): Parsing macros/materializations/incremental/incremental.sql
+2020-12-05 22:03:43.914631 (MainThread): Parsing macros/materializations/seed/seed.sql
+2020-12-05 22:03:43.933856 (MainThread): Parsing macros/materializations/snapshot/snapshot.sql
+2020-12-05 22:03:43.956390 (MainThread): Parsing macros/materializations/snapshot/snapshot_merge.sql
+2020-12-05 22:03:43.958571 (MainThread): Parsing macros/materializations/snapshot/strategies.sql
+2020-12-05 22:03:43.973722 (MainThread): Parsing macros/materializations/table/table.sql
+2020-12-05 22:03:43.980029 (MainThread): Parsing macros/materializations/view/create_or_replace_view.sql
+2020-12-05 22:03:43.986513 (MainThread): Parsing macros/materializations/view/view.sql
+2020-12-05 22:03:43.992604 (MainThread): Parsing macros/schema_tests/accepted_values.sql
+2020-12-05 22:03:43.995573 (MainThread): Parsing macros/schema_tests/not_null.sql
+2020-12-05 22:03:43.997510 (MainThread): Parsing macros/schema_tests/relationships.sql
+2020-12-05 22:03:43.999719 (MainThread): Parsing macros/schema_tests/unique.sql
+2020-12-05 22:03:44.009036 (MainThread): Partial parsing not enabled
+2020-12-05 22:03:44.046369 (MainThread): Acquiring new snowflake connection "model.jaffle_shop.my_first_dbt_model".
+2020-12-05 22:03:44.067170 (MainThread): Acquiring new snowflake connection "model.jaffle_shop.my_second_dbt_model".
+2020-12-05 22:03:44.342383 (MainThread): Found 2 models, 4 tests, 0 snapshots, 0 analyses, 143 macros, 0 operations, 0 seed files, 0 sources
+2020-12-05 22:03:44.343280 (MainThread): 
+2020-12-05 22:03:44.343589 (MainThread): Acquiring new snowflake connection "master".
+2020-12-05 22:03:44.346831 (ThreadPoolExecutor-0_0): Acquiring new snowflake connection "list_analytics".
+2020-12-05 22:03:44.359204 (ThreadPoolExecutor-0_0): Using snowflake connection "list_analytics".
+2020-12-05 22:03:44.359487 (ThreadPoolExecutor-0_0): On list_analytics: /* {"app": "dbt", "dbt_version": "0.18.1", "profile_name": "jaffle_shop", "target_name": "dev", "connection_name": "list_analytics"} */
+
+    show terse schemas in database analytics
+    limit 10000
+2020-12-05 22:03:44.359700 (ThreadPoolExecutor-0_0): Opening a new connection, currently in state init
+2020-12-05 22:04:27.241031 (ThreadPoolExecutor-0_0): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0362631898>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False, 'exceptionMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0362631898>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'exceptionStackTrace': 'Traceback (most recent call last):\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connection.py", line 160, in _new_conn\n    (self._dns_host, self.port), self.timeout, **extra_kw\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/util/connection.py", line 84, in create_connection\n    raise err\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/util/connection.py", line 74, in create_connection\n    sock.connect(sa)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connectionpool.py", line 677, in urlopen\n    chunked=chunked,\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connectionpool.py", line 392, in _make_request\n    conn.request(method, url, **httplib_request_kw)\n  File "/usr/lib/python3.6/http/client.py", line 1281, in request\n    self._send_request(method, url, body, headers, encode_chunked)\n  File "/usr/lib/python3.6/http/client.py", line 1327, in _send_request\n    self.endheaders(body, encode_chunked=encode_chunked)\n  File "/usr/lib/python3.6/http/client.py", line 1276, in endheaders\n    self._send_output(message_body, encode_chunked=encode_chunked)\n  File "/usr/lib/python3.6/http/client.py", line 1042, in _send_output\n    self.send(msg)\n  File "/usr/lib/python3.6/http/client.py", line 980, in send\n    self.connect()\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connection.py", line 187, in connect\n    conn = self._new_conn()\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connection.py", line 172, in _new_conn\n    self, "Failed to establish a new connection: %s" % e\nurllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f0362631898>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/requests/adapters.py", line 449, in send\n    timeout=timeout\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/connectionpool.py", line 727, in urlopen\n    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/urllib3/util/retry.py", line 446, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: HTTPConnectionPool(host=\'o.ss2.us\', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(\'<urllib3.connection.HTTPConnection object at 0x7f0362631898>: Failed to establish a new connection: [Errno 111] Connection refused\',))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/snowflake/connector/ocsp_snowflake.py", line 1340, in _fetch_ocsp_response\n    data=payload,\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/requests/sessions.py", line 530, in request\n    resp = self.send(prep, **send_kwargs)\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/requests/sessions.py", line 643, in send\n    r = adapter.send(request, **kwargs)\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/requests/adapters.py", line 516, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host=\'o.ss2.us\', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(\'<urllib3.connection.HTTPConnection object at 0x7f0362631898>: Failed to establish a new connection: [Errno 111] Connection refused\',))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/snowflake/connector/ocsp_snowflake.py", line 1070, in validate_by_direct_connection\n    hostname, do_retry)\n  File "/home/sandman/dbt-env/lib/python3.6/site-packages/snowflake/connector/ocsp_snowflake.py", line 1365, in _fetch_ocsp_response\n    errno=ER_OCSP_FAILED_TO_CONNECT_HOST)\nsnowflake.connector.errors.RevocationCheckError: 254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host=\'o.ss2.us\', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(\'<urllib3.connection.HTTPConnection object at 0x7f0362631898>: Failed to establish a new connection: [Errno 111] Connection refused\',))\n'}
+2020-12-05 22:04:27.592308 (ThreadPoolExecutor-0_0): SQL status: SUCCESS 348 in 43.23 seconds
+2020-12-05 22:04:27.609128 (ThreadPoolExecutor-0_0): On list_analytics: Close
+2020-12-05 22:04:27.715402 (ThreadPoolExecutor-1_0): Acquiring new snowflake connection "list_analytics_dev_lgaudet".
+2020-12-05 22:04:27.725559 (ThreadPoolExecutor-1_0): Using snowflake connection "list_analytics_dev_lgaudet".
+2020-12-05 22:04:27.725787 (ThreadPoolExecutor-1_0): On list_analytics_dev_lgaudet: /* {"app": "dbt", "dbt_version": "0.18.1", "profile_name": "jaffle_shop", "target_name": "dev", "connection_name": "list_analytics_dev_lgaudet"} */
+
+    show terse objects in analytics.dev_lgaudet
+2020-12-05 22:04:27.725920 (ThreadPoolExecutor-1_0): Opening a new connection, currently in state closed
+2020-12-05 22:05:09.984135 (ThreadPoolExecutor-1_0): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f03621570f0>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 22:05:10.501058 (ThreadPoolExecutor-1_0): SQL status: SUCCESS 2 in 42.78 seconds
+2020-12-05 22:05:10.503507 (ThreadPoolExecutor-1_0): On list_analytics_dev_lgaudet: Close
+2020-12-05 22:05:10.597432 (MainThread): Using snowflake connection "master".
+2020-12-05 22:05:10.597604 (MainThread): On master: BEGIN
+2020-12-05 22:05:10.597678 (MainThread): Opening a new connection, currently in state init
+2020-12-05 22:05:53.025772 (MainThread): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f03621c4588>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 22:05:53.373554 (MainThread): SQL status: SUCCESS 1 in 42.78 seconds
+2020-12-05 22:05:53.373813 (MainThread): On master: COMMIT
+2020-12-05 22:05:53.373982 (MainThread): Using snowflake connection "master".
+2020-12-05 22:05:53.374048 (MainThread): On master: COMMIT
+2020-12-05 22:05:53.508648 (MainThread): SQL status: SUCCESS 1 in 0.13 seconds
+2020-12-05 22:05:53.508914 (MainThread): On master: Close
+2020-12-05 22:05:53.601646 (MainThread): 14:05:53 | Concurrency: 4 threads (target='dev')
+2020-12-05 22:05:53.601982 (MainThread): 14:05:53 | 
+2020-12-05 22:05:53.606895 (Thread-1): Began running node model.jaffle_shop.my_first_dbt_model
+2020-12-05 22:05:53.609738 (Thread-1): 14:05:53 | 1 of 2 START table model dev_lgaudet.my_first_dbt_model.............. [RUN]
+2020-12-05 22:05:53.610368 (Thread-1): Acquiring new snowflake connection "model.jaffle_shop.my_first_dbt_model".
+2020-12-05 22:05:53.610642 (Thread-1): Compiling model.jaffle_shop.my_first_dbt_model
+2020-12-05 22:05:53.642189 (Thread-1): Writing injected SQL for node "model.jaffle_shop.my_first_dbt_model"
+2020-12-05 22:05:53.643224 (Thread-1): finished collecting timing info
+2020-12-05 22:05:53.669611 (Thread-1): Writing runtime SQL for node "model.jaffle_shop.my_first_dbt_model"
+2020-12-05 22:05:53.670677 (Thread-1): Using snowflake connection "model.jaffle_shop.my_first_dbt_model".
+2020-12-05 22:05:53.670802 (Thread-1): On model.jaffle_shop.my_first_dbt_model: BEGIN
+2020-12-05 22:05:53.670892 (Thread-1): Opening a new connection, currently in state closed
+2020-12-05 22:06:35.971040 (Thread-1): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f036010e898>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 22:06:36.304144 (Thread-1): SQL status: SUCCESS 1 in 42.63 seconds
+2020-12-05 22:06:36.304545 (Thread-1): Using snowflake connection "model.jaffle_shop.my_first_dbt_model".
+2020-12-05 22:06:36.304716 (Thread-1): On model.jaffle_shop.my_first_dbt_model: /* {"app": "dbt", "dbt_version": "0.18.1", "profile_name": "jaffle_shop", "target_name": "dev", "node_id": "model.jaffle_shop.my_first_dbt_model"} */
+
+
+      create or replace transient table analytics.dev_lgaudet.my_first_dbt_model  as
+      (/*
+    Welcome to your first dbt model!
+    Did you know that you can also configure models directly within SQL files?
+    This will override configurations stated in dbt_project.yml
+
+    Try changing "table" to "view" below
+*/
+
+
+
+with source_data as (
+
+    select 1 as id
+    union all
+    select null as id
+
+)
+
+select *
+from source_data
+
+/*
+    Uncomment the line below to remove records with null `id` values
+*/
+
+-- where id is not null
+      );
+2020-12-05 22:06:37.709571 (Thread-1): SQL status: SUCCESS 1 in 1.40 seconds
+2020-12-05 22:06:37.711464 (Thread-1): On model.jaffle_shop.my_first_dbt_model: COMMIT
+2020-12-05 22:06:37.711725 (Thread-1): Using snowflake connection "model.jaffle_shop.my_first_dbt_model".
+2020-12-05 22:06:37.711873 (Thread-1): On model.jaffle_shop.my_first_dbt_model: COMMIT
+2020-12-05 22:06:37.780846 (Thread-1): SQL status: SUCCESS 1 in 0.07 seconds
+2020-12-05 22:06:37.794290 (Thread-1): finished collecting timing info
+2020-12-05 22:06:37.794686 (Thread-1): On model.jaffle_shop.my_first_dbt_model: Close
+2020-12-05 22:06:37.894106 (Thread-1): Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '5f3c39b6-8044-4f40-a963-347422c45543', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f036215b518>]}
+2020-12-05 22:06:37.896169 (Thread-1): 14:06:37 | 1 of 2 OK created table model dev_lgaudet.my_first_dbt_model......... [SUCCESS 1 in 44.28s]
+2020-12-05 22:06:37.896445 (Thread-1): Finished running node model.jaffle_shop.my_first_dbt_model
+2020-12-05 22:06:37.897429 (Thread-2): Began running node model.jaffle_shop.my_second_dbt_model
+2020-12-05 22:06:37.899531 (Thread-2): 14:06:37 | 2 of 2 START view model dev_lgaudet.my_second_dbt_model.............. [RUN]
+2020-12-05 22:06:37.900182 (Thread-2): Acquiring new snowflake connection "model.jaffle_shop.my_second_dbt_model".
+2020-12-05 22:06:37.900425 (Thread-2): Compiling model.jaffle_shop.my_second_dbt_model
+2020-12-05 22:06:37.918703 (Thread-2): Writing injected SQL for node "model.jaffle_shop.my_second_dbt_model"
+2020-12-05 22:06:37.920474 (Thread-2): finished collecting timing info
+2020-12-05 22:06:37.945528 (Thread-2): Writing runtime SQL for node "model.jaffle_shop.my_second_dbt_model"
+2020-12-05 22:06:37.946541 (Thread-2): Using snowflake connection "model.jaffle_shop.my_second_dbt_model".
+2020-12-05 22:06:37.946642 (Thread-2): On model.jaffle_shop.my_second_dbt_model: BEGIN
+2020-12-05 22:06:37.946715 (Thread-2): Opening a new connection, currently in state init
+2020-12-05 22:07:20.438306 (Thread-2): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f03600eab00>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 22:07:20.749095 (Thread-2): SQL status: SUCCESS 1 in 42.80 seconds
+2020-12-05 22:07:20.749281 (Thread-2): Using snowflake connection "model.jaffle_shop.my_second_dbt_model".
+2020-12-05 22:07:20.749351 (Thread-2): On model.jaffle_shop.my_second_dbt_model: /* {"app": "dbt", "dbt_version": "0.18.1", "profile_name": "jaffle_shop", "target_name": "dev", "node_id": "model.jaffle_shop.my_second_dbt_model"} */
+
+  create or replace  view analytics.dev_lgaudet.my_second_dbt_model  as (
+    -- Use the `ref` function to select from other models
+
+select *
+from analytics.dev_lgaudet.my_first_dbt_model
+where id = 1
+  );
+2020-12-05 22:07:20.967842 (Thread-2): SQL status: SUCCESS 1 in 0.22 seconds
+2020-12-05 22:07:20.969237 (Thread-2): On model.jaffle_shop.my_second_dbt_model: COMMIT
+2020-12-05 22:07:20.969437 (Thread-2): Using snowflake connection "model.jaffle_shop.my_second_dbt_model".
+2020-12-05 22:07:20.969506 (Thread-2): On model.jaffle_shop.my_second_dbt_model: COMMIT
+2020-12-05 22:07:21.042303 (Thread-2): SQL status: SUCCESS 1 in 0.07 seconds
+2020-12-05 22:07:21.047975 (Thread-2): finished collecting timing info
+2020-12-05 22:07:21.048357 (Thread-2): On model.jaffle_shop.my_second_dbt_model: Close
+2020-12-05 22:07:21.135575 (Thread-2): Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '5f3c39b6-8044-4f40-a963-347422c45543', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f0363d9a048>]}
+2020-12-05 22:07:21.138756 (Thread-2): 14:07:21 | 2 of 2 OK created view model dev_lgaudet.my_second_dbt_model......... [SUCCESS 1 in 43.24s]
+2020-12-05 22:07:21.139253 (Thread-2): Finished running node model.jaffle_shop.my_second_dbt_model
+2020-12-05 22:07:21.202108 (MainThread): Acquiring new snowflake connection "master".
+2020-12-05 22:07:21.202468 (MainThread): Using snowflake connection "master".
+2020-12-05 22:07:21.202613 (MainThread): On master: BEGIN
+2020-12-05 22:07:21.202734 (MainThread): Opening a new connection, currently in state closed
+2020-12-05 22:08:03.578774 (MainThread): WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'eventType': 'RevocationCheckFailure', 'sfcPeerHost': 'fka50167.snowflakecomputing.com', 'certId': 'MEAwBwYFKw4DAhoEFIvBnoRbmB1hz1RpIRpouOMRM22QBBS/X7fRzt0fhvRbVazc1xDCDqmI5wIJAKcOSkw0grd/', 'ocspRequestBase64': 'MEgwRjBEMEIwQDAHBgUrDgMCGgQUi8GehFuYHWHPVGkhGmi44xEzbZAEFL9ft9HO3R+G9FtVrNzXEMIOqYjnAgkApw5KTDSCt38=', 'ocspResponderURL': 'http://o.ss2.us/', 'errorMessage': "254005: Could not fetch OCSP Response from server. Considerchecking your whitelists : Exception - HTTPConnectionPool(host='o.ss2.us', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0362186ef0>: Failed to establish a new connection: [Errno 111] Connection refused',))", 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': False}
+2020-12-05 22:08:03.885662 (MainThread): SQL status: SUCCESS 1 in 42.68 seconds
+2020-12-05 22:08:03.885883 (MainThread): On master: COMMIT
+2020-12-05 22:08:03.885997 (MainThread): Using snowflake connection "master".
+2020-12-05 22:08:03.886064 (MainThread): On master: COMMIT
+2020-12-05 22:08:04.025578 (MainThread): SQL status: SUCCESS 1 in 0.14 seconds
+2020-12-05 22:08:04.025929 (MainThread): On master: Close
+2020-12-05 22:08:04.112404 (MainThread): 14:08:04 | 
+2020-12-05 22:08:04.112710 (MainThread): 14:08:04 | Finished running 1 table model, 1 view model in 259.77s.
+2020-12-05 22:08:04.112896 (MainThread): Connection 'master' was properly closed.
+2020-12-05 22:08:04.113026 (MainThread): Connection 'model.jaffle_shop.my_first_dbt_model' was properly closed.
+2020-12-05 22:08:04.113162 (MainThread): Connection 'model.jaffle_shop.my_second_dbt_model' was properly closed.
+2020-12-05 22:08:04.131245 (MainThread): 
+2020-12-05 22:08:04.131634 (MainThread): Completed successfully
+2020-12-05 22:08:04.131913 (MainThread): 
+Done. PASS=2 WARN=0 ERROR=0 SKIP=0 TOTAL=2
+2020-12-05 22:08:04.132419 (MainThread): Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f036010ee10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f03627940f0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f0362794390>]}
+2020-12-05 22:08:04.132833 (MainThread): Flushing usage events

@@ -5,4 +5,4 @@ select
     status,
     (coalesce(amount,0)/100)::float as amount,
     created
-from raw.stripe.payment
+from {{ source('stripe','payment') }}
